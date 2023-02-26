@@ -1,4 +1,4 @@
-# Current Hypothesis to be tested
+# Hypothesis
 
 There are 2 main possible reasons why ACCESS-OM2-01 is able to form DSW along the shelf
 
