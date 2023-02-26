@@ -11,3 +11,9 @@ The [Project/analysis Overview](https://github.com/users/willaguiar/projects/3) 
 To start contributing to the code, make your own branch directly in this repository, edit away on your branch, and then submit pull requests between your branch and the master branch (or merge directly).
 
 As we figure out the main results and develop the storyline, we can add to the [Results Summary here](https://github.com/willaguiar/DSW-collaborative-project/blob/main/Results_summary) and draft figure list for the paper here.
+
+#First meeting
+
+We should schedule a first meeting for detaling further the project, setting tasks, and setting optimal hackathon time.
+Please vote below which time would you be available to meet:
+
