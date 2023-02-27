@@ -29,10 +29,10 @@ There are 2 main possible reasons why ACCESS-OM2-01 is able to form DSW along th
 **H2**- Fine ocean grid resolution: The fine (horizontal and verical) resolution of the ocean grid could allow the topography to have the optimal slope/configuration for shelf water buoyancy loss and DSW overflows. We can test that by changing the vertical resolution of the ocean grid.
     
 ## H1 - Wind forcing
-We can test if the katabatic winds on JRA55 are the reason for DSW formation in OM2-01 by creating some RYF runs forced with ERA5. That should be a very simple enough test. The issues involved in this test will be tagged as **H1**
+We can test if the katabatic winds on JRA55 are the reason for DSW formation in OM2-01 by creating some RYF runs forced with ERA5. That should be a very simple enough test. The issues involved in this test will be tagged as **H1**. For simplicity the experiment that will derive from here can be called **01deg_jra55v13_ryf9091_ERA5**
 
 ## H2 -  Fine grid ocean resolution
-   ACCES-OM2-025 is set to have a minimum depth of ocean cells of 40 m at ocean_grid.nc, i.e., shelf regions with maximum depth >40m aren't treated as ocean. In turn, OM2-01 has minimum depth of ocean cells of 10 m. Perhaps the 10m cutoff level is optimal to allow shelf waters to become dense enough to overflow. We can modify OM2-01 ocean_grid.nc to have a 40m cutoff depth, run the model under this new configuration and analyze how/if DSW formation and overflows changed. The issues involved in this test will be tagged as **H2**
+   ACCES-OM2-025 is set to have a minimum depth of ocean cells of 40 m at ocean_grid.nc, i.e., shelf regions with maximum depth >40m aren't treated as ocean. In turn, OM2-01 has minimum depth of ocean cells of 10 m. Perhaps the 10m cutoff level is optimal to allow shelf waters to become dense enough to overflow. We can modify OM2-01 ocean_grid.nc to have a 40m cutoff depth, run the model under this new configuration and analyze how/if DSW formation and overflows changed. The issues involved in this test will be tagged as **H2**. For simplicity the experiment that will derive from here can be called **01deg_jra55v13_ryf9091_40m**
 
 
 
