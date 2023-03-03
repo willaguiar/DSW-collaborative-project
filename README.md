@@ -16,7 +16,6 @@ As we figure out the main results and develop the storyline, we can add to the [
 # First meeting
 
 We should schedule a first meeting to detail the project further, set tasks, and set the hackathon times.
-Please vote below which time you would be available to meet:
 
 
 
