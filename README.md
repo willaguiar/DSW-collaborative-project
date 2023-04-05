@@ -33,6 +33,7 @@ We can test if the katabatic winds on JRA55 are the reason for DSW formation in 
 ## H2 -  Fine ocean vertical resolution
 ACCESS-OM2-01 has a high vertical resolution in upper ocean (e.g. upper cell thickness of ~1m). The vertical resolution in OM2-01 might be optimal to allow DSW formation along the shelf and to permit shelf overflows without excessive mixing. We want to coarsen the vertical resolution of OM2-01 (to an upper cell thickness of 5m) to see if that suppresses DSW formation and its overflow. This will also require modification of the bathymetry's minimum depth (currently ~10m minimum), so that we still have a minimum of 4 cells deep everywhere.
 We will run the model under this new configuration (new vertical grid and modified bathymetry) and analyze how/if DSW formation and overflows changed. The issues involved in this test will be tagged as H2. For simplicity, the experiment that will derive from here can be named **01deg_jra55v13_ryf9091_5m**
-###Updates on H2
+
+### Updates on H2
 
 
