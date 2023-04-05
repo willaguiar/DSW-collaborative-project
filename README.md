@@ -36,7 +36,7 @@ We will run the model under this new configuration (new vertical grid and modifi
 
 ### Updates on H2
 We needed to rerun the RYF simulation with its original vertical grid (KDS75),as a control, and to analyze how long it takes until we have DSW formation in ACCESS-OM2-01. The only change made in comparisson to the old OM2-01 runs, is that the batrymetry was change to match the future bathymtry used in 01deg_jra55v13_ryf9091_5m. The new bathymetry file can be found at
-'/home/156/wf4500/access-om2-01/ryf'
-Changes in the bathymetry file for this ryf run are described <in this issue>(https://github.com/willaguiar/DSW-collaborative-project/issues/4#issue-1600372551)
+`/home/156/wf4500/access-om2-01/ryf`
+Changes in the bathymetry file for this ryf run are described <in this issue>(https://github.com/willaguiar/DSW-collaborative-project/issues/4#issue-1600372551). Currently the control RYF is running
 
 
