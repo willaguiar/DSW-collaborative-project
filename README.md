@@ -35,5 +35,8 @@ ACCESS-OM2-01 has a high vertical resolution in upper ocean (e.g. upper cell thi
 We will run the model under this new configuration (new vertical grid and modified bathymetry) and analyze how/if DSW formation and overflows changed. The issues involved in this test will be tagged as H2. For simplicity, the experiment that will derive from here can be named **01deg_jra55v13_ryf9091_5m**
 
 ### Updates on H2
+We needed to rerun the RYF simulation with its original vertical grid (KDS75),as a control, and to analyze how long it takes until we have DSW formation in ACCESS-OM2-01. The only change made in comparisson to the old OM2-01 runs, is that the batrymetry was change to match the future bathymtry used in 01deg_jra55v13_ryf9091_5m. The new bathymetry file can be found at
+'/home/156/wf4500/access-om2-01/ryf'
+Changes in the bathymetry file for this ryf run are described in this issue
 
 
