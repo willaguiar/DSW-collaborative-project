@@ -13,11 +13,13 @@ To start contributing to the code, make your own branch directly in this reposit
 
 As we figure out the main results and develop the storyline, we can add to the [Results Summary here](https://github.com/willaguiar/DSW-collaborative-project/blob/main/Results_summary) and draft figure list for the paper here.
 
-# First meeting
+# Meeting schedule
 
-We should schedule a first meeting to detail the project further, set tasks, and set the hackathon times.
-
-
+Meeting are biweekly. Next group meetings:
+-April 14th, 2021, 10 am
+-April 28th, 2021, 10 am
+-May 12th, 2021, 10 am
+-May 26th, 2021, 10 am
 
 # Hypotheses
 
