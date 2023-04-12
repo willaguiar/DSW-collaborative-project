@@ -16,9 +16,13 @@ As we figure out the main results and develop the storyline, we can add to the [
 # Meeting schedule
 
 Meeting are biweekly. Next group meetings:
+
 -April 14th, 2021, 10 am
+    
 -April 28th, 2021, 10 am
+
 -May 12th, 2021, 10 am
+
 -May 26th, 2021, 10 am
 
 # Hypotheses
