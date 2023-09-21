@@ -47,4 +47,14 @@ The new bathymetry file can be found at
 `/home/156/wf4500/access-om2-01/ryf/localinput/`
 Changes in the bathymetry file for this ryf run are described <in this issue>(https://github.com/willaguiar/DSW-collaborative-project/issues/4#issue-1600372551). Currently the control RYF is running
 
+# Table of experiments
 
+| Short name| Vertical grid|dzmin|Restoring tscale|max_delta_salinity_restore|Full name on gdata/ik11| Additional info        |
+| ------------- | --------------- | -------------- |--------------- | ------ | -------------- |------------------------------ |
+| 21mbath       |KDS75 (75 lev)   | ~1 meters  | 10 days | 0.5 PSU  |01deg_jra55v13_ryf9091_21mbath| Min depth =21m |
+| 5mdz  | 60 levels  | ~ 5 meters | 45.4 days | 0.5 PSU  |01deg_jra55v13_ryf9091_21mbath_5mdz| No cells thinner than 5 m|
+| 5mtop | 72 levels | ~ 1.7 m on the second cell | 45.4 days | 0.5 PSU  | *not on gdata yet* | Top cell 5m thick, all deeper cells are equal to 21mbath |
+|noSaltRestore|KDS75 (75 lev)   | ~1 meters  | *no restoring* | *no restoring* |  *not on gdata yet* | Without salt restoring |
+|Strong_Salt_restore|KDS75 (75 lev)   | ~1 meters  | 10 days | *5 PSU*|  *not on gdata yet* | Salt restore up to 5 PSU |
+|CM2atm|KDS75 (75 lev)   | ~1 meters  | 10 days | 0.5 PSU  |01deg_jra55v13_ryf9091_21mbath_CM2atm| [Forced with CM2atm monthly climatology](https://github.com/willaguiar/DSW-collaborative-project/blob/main/JupyterCodes/CM2_bias_perturbation_setup.ipynb)|
+|halfmTop| 76 levels | ~0.5 meter| 10 days | 0.5 PSU  |*not on gdata yet* | currently running |
