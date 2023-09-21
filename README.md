@@ -17,13 +17,15 @@ As we figure out the main results and develop the storyline, we can add to the [
 
 Meeting are biweekly. Next group meetings:
 
--April 14th, 2021, 10 am
-    
--April 28th, 2021, 10 am
+-Sept 22nd, 2023, 10 am
 
--May 12th, 2021, 10 am
+-Oct 6th, 2023, 10 am
 
--May 26th, 2021, 10 am
+-Oct 20th, 2023, 10 am
+
+-Nov 3rd, 2023, 10 am
+
+-Nov 17th, 2023, 10 am
 
 # Hypotheses
 
@@ -40,12 +42,18 @@ We can test if the katabatic winds on JRA55 are the reason for DSW formation in 
 ACCESS-OM2-01 has a high vertical resolution in upper ocean (e.g. upper cell thickness of ~1m). The vertical resolution in OM2-01 might be optimal to allow DSW formation along the shelf and to permit shelf overflows without excessive mixing. We want to coarsen the vertical resolution of OM2-01 (to an upper cell thickness of 5m) to see if that suppresses DSW formation and its overflow. This will also require modification of the bathymetry's minimum depth (currently ~10m minimum), so that we still have a minimum of 4 cells deep everywhere.
 We will run the model under this new configuration (new vertical grid and modified bathymetry) and analyze how/if DSW formation and overflows changed. The issues involved in this test will be tagged as H2. For simplicity, the experiment that will derive from here can be named **01deg_jra55v13_ryf9091_5m**
 
-### Updates on H2
-**Control run**: We needed to rerun the RYF simulation with its original vertical grid (KDS75),as a control, and to analyze how long it takes until we have DSW formation in OM2-01. I am calling this control run `01deg_jra55v13_ryf9091_DSW`.  The only change made in comparisson to the 01deg_jra55v13_ryf9091, is that the batrymetry was changed to match the future bathymetry used in the reduced vertical resolution experiment. 
+### Details on H2 experiments
+**Control run**: We needed to rerun the RYF simulation with its original vertical grid (KDS75),as a control, and to analyze how long it takes until we have DSW formation in OM2-01. I am calling this control run `01deg_jra55v13_ryf9091_21mbath`.  The only change made in comparisson to the 01deg_jra55v13_ryf9091, is that the batrymetry was changed to match the future bathymetry used in the reduced vertical resolution experiment. 
 
 The new bathymetry file can be found at
 `/home/156/wf4500/access-om2-01/ryf/localinput/`
-Changes in the bathymetry file for this ryf run are described <in this issue>(https://github.com/willaguiar/DSW-collaborative-project/issues/4#issue-1600372551). Currently the control RYF is running
+Changes in the bathymetry file for this ryf run are described <in this issue>(https://github.com/willaguiar/DSW-collaborative-project/issues/4#issue-1600372551).
+
+# Short summary of results
+**H1**- Forcing OM2 with CM2 winds seems to increase DSW formation, especially on the Weddell Sea. We are currently evaluating why.
+
+**H2**- Decreasing the top cell thickness to 5m (instead of 1m) makes waters on all the Antarctic Shelf ligher, and fresher. The next step is to evaluate why
+
 
 # Table of experiments
 
