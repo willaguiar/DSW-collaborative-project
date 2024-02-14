@@ -13,3 +13,7 @@ T1:
 
 - Introduction:
 Literature review of constraints on DSW formation around Antarctica ( Horizonal resolution, Vertical resolution, slope representation...). Importance of accurate surface fluxes for DSW formation. Ocean model sensitivity to surface fluxes (e.g., Van Roekel et al 2018)
+
+
+## For discussion
+- Do we want to add an Analysis od NADW formation and sensitivity to top cell thickness?
