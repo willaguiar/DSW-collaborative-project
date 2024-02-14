@@ -16,9 +16,10 @@ Literature review of constraints on DSW formation around Antarctica ( Horizonal 
 
 - **Methods**:
   
-M1-ocean and sea ice model :ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW a the Antarctic shelf. Description of Pan-antarctic/MOM6. Either show DSW formation in MOM6 or cite Christina's paper ( in dev...). Describe analysis methods (SWMT, flow over 1km isobath as overflow diagnostic). Highlight differences in OSBL mixing scheme between OM2 (KPP) and MOM6 (EPBL).  Describe vertical grid adjustment (refer to fig1 of results, which should have a plot of the different z-grids)
+M1, ocean and sea ice model :ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW a the Antarctic shelf. Description of Pan-antarctic/MOM6. Either show DSW formation in MOM6 or cite Christina's paper ( in dev...). Describe analysis methods (SWMT, flow over 1km isobath as overflow diagnostic). Highlight differences in OSBL mixing scheme between OM2 (KPP) and MOM6 (EPBL).  Describe vertical grid adjustment (refer to fig1 of results, which should have a plot of the different z-grids)
 
-M2- Single column experiments: Describe ocean-only configuration of single-column experiments, and freshwater fluxes used to force the model. Describe latent heat flux adjustments used to bring net heat fluxes in the ocean model back to the values found in the Weddell Sea.
+
+M2,  Single column experiments: Describe ocean-only configuration of single-column experiments, and freshwater fluxes used to force the model. Describe latent heat flux adjustments used to bring net heat fluxes in the ocean model back to the values found in the Weddell Sea.
 
 
 ## For discussion
