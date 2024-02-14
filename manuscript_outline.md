@@ -17,10 +17,15 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
 
 - **Methods**:
   
-    Part 1, ocean and sea ice model: ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW a the Antarctic shelf. Description of Pan-antarctic/MOM6. Either show DSW formation in MOM6 or cite Christina's paper ( in dev...). Describe analysis methods (SWMT, flow over 1km isobath as overflow diagnostic). Highlight differences in OSBL mixing scheme between OM2 (KPP) and MOM6 (EPBL).  Describe vertical grid adjustment (refer to fig1 of results, which should have a plot of the different z-grids)
+    Part 1, ocean and sea ice model: ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW at the Antarctic shelf. Description of Pan-antarctic/MOM6. Either show DSW formation in MOM6 or cite Christina's paper ( in dev...). Describe analysis methods (SWMT, flow over 1km isobath as overflow diagnostic). Highlight differences in OSBL mixing scheme between OM2 (KPP) and MOM6 (EPBL) and why they matter for the study.  Describe vertical grid adjustment (refer to fig1 of results, which should have a plot of the different z-grids)
 
 
     Part 2,  Single column experiments: Describe ocean-only configuration of single-column experiments, and freshwater fluxes used to force the model. Describe latent heat flux adjustments used to bring net heat fluxes in the ocean model back to the values found in the Weddell Sea.
+
+
+- **Results 1 : OM2 and Panan**:
+  
+        Part hehaeh n and sea ice model: ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW
 
 
 ## For discussion
