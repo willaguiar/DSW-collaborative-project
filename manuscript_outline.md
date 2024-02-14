@@ -11,4 +11,5 @@ T1:
 
 ## Paper outline
 
-- Introduction: Literature review of constraints on DSW formation around Antarctica ( Horizonal resolution, Vertical resolution, slope representation...)
+- Introduction:
+Literature review of constraints on DSW formation around Antarctica ( Horizonal resolution, Vertical resolution, slope representation...). Importance of accurate surface fluxes for DSW formation. Ocean model sensitivity to surface fluxes (e.g., Van Roekel et al 2018)
