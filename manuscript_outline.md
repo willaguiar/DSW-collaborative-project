@@ -24,8 +24,10 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
 
 
 - **Results 1 : OM2 and Panan**:
-  
-        Part hehaeh n and sea ice model: ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW
+
+    Describe changes in SWMT in OM2 and Panan top cell experiments. We will have 1 figure with 4 panels, showing [a] Grid differences, [b] SWMT $f(\sigma_0)$ , [c] DSW cross-slope transport  $f(\sigma_0)$, [d] DSW Cross-slope trnasport timeseries
+
+
 
 
 ## For discussion
