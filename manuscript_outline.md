@@ -9,6 +9,7 @@ T1:
 
 Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 table / 1 figure)
 
+
 ## Paper outline
 
 - **Introduction**:
@@ -23,10 +24,11 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
     Part 2,  Single column experiments: Describe ocean-only configuration of single-column experiments, and freshwater fluxes used to force the model. Describe latent heat flux adjustments used to bring net heat fluxes in the ocean model back to the values found in the Weddell Sea.
 
 
-- **Results 1 : OM2 and Panan**:
+- **Results 1, OM2 and Panan**:
 
-    Describe changes in SWMT in OM2 and Panan top cell experiments. We will have 1 figure with 4 panels, showing [a] Grid differences, [b] SWMT $f(\sigma_0)$ , [c] DSW cross-slope transport  $f(\sigma_0)$, [d] DSW Cross-slope trnasport timeseries
+    Describe changes in SWMT in OM2 and Panan top cell experiments. We will have 1 figure with 4 panels, showing 1-Grid differences, 2- SWMT $f(\sigma_0)$ , 3- DSW cross-slope transport  $f(\sigma_0)$, 4- DSW Cross-slope trnasport timeseries. Figure scketch below:
 
+<img width="853" alt="Screenshot 2024-02-15 at 10 30 23 AM" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/96fe0c16-ba76-44eb-ba27-800f79508adc">
 
 
 
