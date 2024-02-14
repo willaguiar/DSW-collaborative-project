@@ -7,6 +7,6 @@
 
 T1:
 
-**Limits**:
+**Limits**: 25 Publication units (1PU = 500 words/ 1 table / 1 figure)
 
 ## Paper outline
