@@ -15,8 +15,9 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
 Literature review of constraints on DSW formation around Antarctica ( Horizonal resolution, Vertical resolution, slope representation...). Importance of accurate surface fluxes for DSW formation. Ocean model sensitivity to surface fluxes (e.g., Van Roekel et al 2018)
 
 - **Methods**:
-ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW around Antarctica.
+ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW a the Antarctic shelf.
 
 
 ## For discussion
 - Do we want to add an Analysis od NADW formation and sensitivity to top cell thickness?
+- DO we want to show the DSW sensitivity to salinity restoring? (perhaps only in the Supplementary material)
