@@ -31,6 +31,10 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
 
 <img width="828" alt="Screenshot 2024-02-15 at 10 34 46 AM" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/a9e18259-34cc-45eb-9a21-a1b9fe3876d0">
 
+- **Results 2, single column experiments**:
+
+    Describe Set up for Weddell Sea experiments (IC, FW forcing, heat fluxes). Figure 2 below:
+![303553340-4e2d43e4-fc4f-426f-a99b-7e8c76a807ad](https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/32ceadf7-4868-4262-86fc-87304eb30295)
 
 
 ## For discussion
