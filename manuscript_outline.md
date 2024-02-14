@@ -7,6 +7,8 @@
 
 T1:
 
-**Limits**: 25 Publication units (1PU = 500 words/ 1 table / 1 figure)
+**Limits**: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 table / 1 figure)
 
 ## Paper outline
+
+- Introduction: Literature review of constraints on DSW formation around Antarctica ( Horizonal resolution, Vertical resolution, slope representation...)
