@@ -33,13 +33,18 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
 
 - **Results 2, single column experiments**:
 
-    Describe Set up for Weddell Sea experiments (IC, FW forcing, heat fluxes). Figure 2 below:
+    Describe set up for Weddell Sea experiments (IC, FW forcing, heat fluxes). Figure 2 below:
 ![303553340-4e2d43e4-fc4f-426f-a99b-7e8c76a807ad](https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/32ceadf7-4868-4262-86fc-87304eb30295)
 
     table of experiments:
 ![image](https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/52cb02c1-ae09-4dec-96be-309a582f99d2)
 
+    Describe results for single column experiments. Figure 3:
+  <img width="328" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/89ae117a-ab33-4c41-b2e7-33bd30cc9c9c">
 
-## For discussion
+  
+
+
+## Decisions to make
 - Do we want to add an Analysis od NADW formation and sensitivity to top cell thickness?
 Do we want to show the DSW sensitivity to salinity restoring? (perhaps only in the Supplementary material)
