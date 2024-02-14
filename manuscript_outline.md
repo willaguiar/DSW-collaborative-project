@@ -15,7 +15,7 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
 Literature review of constraints on DSW formation around Antarctica ( Horizonal resolution, Vertical resolution, slope representation...). Importance of accurate surface fluxes for DSW formation. Ocean model sensitivity to surface fluxes (e.g., Van Roekel et al 2018)
 
 - **Methods**:
-ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW a the Antarctic shelf. Description of Pan-antarctic/MOM6. Either show DSW formation in MOM6 or cite Christina's paper ( in dev.). Describe analysis methods (SWMT, flow over 1km isobath as overflow diagnostic)
+ACCESS-OM2-01 description. Highlight OM2 skill in forming DSW a the Antarctic shelf. Description of Pan-antarctic/MOM6. Either show DSW formation in MOM6 or cite Christina's paper ( in dev...). Describe analysis methods (SWMT, flow over 1km isobath as overflow diagnostic). Highlight differences in OSBL mixing scheme between OM2 (KPP) and MOM6 (EPBL). 
 
 
 ## For discussion
