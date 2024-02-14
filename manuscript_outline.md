@@ -39,8 +39,11 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
     table of experiments:
 ![image](https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/52cb02c1-ae09-4dec-96be-309a582f99d2)
 
-    Describe results for single column experiments. Figure 3:
+    Describe results for single column experiments. Figure 3 (not sure if it is necessary to show the bottom panels/timeseries here):
+  
   <img width="328" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/89ae117a-ab33-4c41-b2e7-33bd30cc9c9c">
+  <img width="338" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/3b2e6000-c19b-483f-a8c1-80430464209b">
+
 
   
 
