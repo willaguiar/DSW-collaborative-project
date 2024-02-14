@@ -1,6 +1,7 @@
 ## Information summary
 **Objective**: Set up the storyline and main figures for the manuscript submission
 
+
 Journal target: [Journal of Advances in Modeling Earth Systems - James](https://agupubs.onlinelibrary.wiley.com/hub/journal/19422466/aims-and-scope/read-full-aims-and-scope)
 
 Title options:
@@ -28,7 +29,7 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
 
     Describe changes in SWMT in OM2 and Panan top cell experiments. We will have 1 figure with 4 panels, showing 1-Grid differences, 2- SWMT $f(\sigma_0)$ , 3- DSW cross-slope transport  $f(\sigma_0)$, 4- DSW Cross-slope trnasport timeseries. Figure scketch below:
 
-<img width="853" alt="Screenshot 2024-02-15 at 10 30 23 AM" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/96fe0c16-ba76-44eb-ba27-800f79508adc">
+<img width="828" alt="Screenshot 2024-02-15 at 10 34 46 AM" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/a9e18259-34cc-45eb-9a21-a1b9fe3876d0">
 
 
 
