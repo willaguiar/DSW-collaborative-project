@@ -48,7 +48,7 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
 - **Discussion and summary**:
 
     * We found that freshwater/salt fluxes are more efficient in increasing the  surface density when models have thinner surface ocean cells, therefore benefiting DSW formation. Implication: Development of models with top cell thicknessess <1m would be beneficial for DSW representation in Antarctica.
-    * Density signal in single-column experiments is smaller than in Ocean-sea ice models. Likely due to missing sea ice feedback ( can we show that somehow, or find a reference for it?)
+    * Density signal in single-column experiments is smaller than in Ocean-sea ice models. Likely due to missing sea ice feedback ( can we show that somehow, or find a reference for it?). _Do we have other possible reasons for the weaker signal in single-column exp ?_
 
 
 
