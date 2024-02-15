@@ -12,6 +12,9 @@ T2: Antarctic Dense Shelf Water formation constrained by ocean vertical resoluti
 
 T3: ...
 
+![create-vote](docs/screenshots/create-vote.png)
+
+
 Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 table / 1 figure)
 
 
