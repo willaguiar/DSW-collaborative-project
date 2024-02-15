@@ -54,4 +54,4 @@ Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 t
 
 ## Decisions to make
 - Do we want to add an Analysis od NADW formation and sensitivity to top cell thickness?
-Do we want to show the DSW sensitivity to salinity restoring? (perhaps only in the Supplementary material)
+- Do we want to show the DSW sensitivity to salinity restoring? (perhaps only in the Supplementary material)
