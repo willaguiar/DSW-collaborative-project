@@ -8,7 +8,7 @@ Title options:
 
 T1: Antarctic Dense Shelf Water sensitivity to surface cell resolution in ocean models
 
-T2:
+T2: Antarctic Dense Shelf Water formation constrained by vertical resolution at the ocean model surface
 
 Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 table / 1 figure)
 
