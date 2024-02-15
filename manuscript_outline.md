@@ -6,7 +6,9 @@ Journal target: [Journal of Advances in Modeling Earth Systems - James](https://
 
 Title options:
 
-T1:
+T1: Antarctic Dense Shelf Water sensitivity to surface cell resolution in ocean models
+
+T2:
 
 Limits: No limit, but suggested up to 25 Publication units (1PU = 500 words/ 1 table / 1 figure)
 
