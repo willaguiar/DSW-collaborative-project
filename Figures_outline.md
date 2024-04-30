@@ -23,9 +23,25 @@ Figure 1 shows how the SWMT changes between models with different top cell resol
 <img width="256" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/167bfa6c-f73e-4000-a1ef-5e56f821822a">
 
 
-- aa
 
-### Images that might be useful to have as a supplementary material
+
+
+
+
+### Supplementary material images
 Contours of mass transport accross the 1km isobath. We should discuss if this is is better placed in the supmat or main ms in the next DSw meeting
 
-<img width="622" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/ab31fa93-01f3-44d7-9e7a-fe657244fbd5">
+<img width="400" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/ab31fa93-01f3-44d7-9e7a-fe657244fbd5">
+
+
+Cell config maps:
+
+<img width="400" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/21152f23-98ee-49e7-8416-6d8081fc2833">
+
+
+zero effect of salt restoring on mass transports:
+
+<img width="400" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/d609f2ed-588d-4232-a6b2-ac0535fc0585">
+
+<img width="400" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/73668070-c6a0-474a-8ee8-032f77e5ca86">
+
