@@ -27,7 +27,9 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
   - to do: Maintain only 5mtop and 1mtop experiments for OM2 and panan. Also add a second panel with mass transport across slope foe simulations
 
 
-### Results Part 2 - DSW in OM2 and Panan
+### Results Part 2 - FWF distribution and or /ocean only (TBD)
+  -  FWFdist - Highlight that what is controlling the DSW is the different potential for density gain when the same SI-freshwater flux is added in cells with different sizes
+  -  Ocean only experiments will be perfomed to separate the effect of SI-ocean feedbacks
 
 ### Remaining decisions
   - Should we include the halfmtop experiment in the paper? that experiment was done only with ACCESS-OM2, but not Panan01. It might be necessary to run a halfmtop case with pana if we want to include it.
