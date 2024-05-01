@@ -35,6 +35,7 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
   - Should we include the halfmtop experiment in the paper? that experiment was done only with ACCESS-OM2, but not Panan01. It might be necessary to run a halfmtop case with pana if we want to include it.
   - Do we want to include the single column experiments?
   - Do we want to include N.A. SWMT?
+  - As far as I know, there is no paper yet validating DSW formation in PANAN....DO we need to include a session valudating DSW formation in the model first?
 
 ### Supplementary material images
 Contours of mass transport accross the 1km isobath. We should discuss if this is is better placed in the supmat or main ms in the next DSw meeting
