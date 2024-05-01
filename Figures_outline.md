@@ -14,10 +14,10 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
 ### Methods
   - ACCESS-OM2-01, and PANAN-01 desciption:
      - Highlight the differences in B.L. mixing scheme (EPBS, KPP), and how previous work highlight that the BLMS can alter MLD in full convection experiments [Van Roekel 2018](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001336)
-     - Describe the 1mtop and 5mtop eperiments
+     - Describe the 1mtop and 5mtop experiments
   -  Describe methods used to calculate the Surface Water Mass Transformation, and mass transport crossing the slope
   -  Describe the FWF distribution experiments and/or quasi-2d experiments
-    
+    **We might need an experiment table**
 ### Results Part 1 - DSW in OM2 and Panan
 **Figure 1** shows how the SWMT changes between models with different top cell resolutions, and a timeseries of the DSW transport accross the 1km isobath
 
