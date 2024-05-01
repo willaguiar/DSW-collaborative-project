@@ -21,10 +21,11 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
 ### Results Part 1 - DSW in OM2 and Panan
 **Figure 1** shows how the SWMT changes between models with different top cell resolutions, and a timeseries of the DSW transport accross the 1km isobath
 
-<img width="633" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/908985ec-e7a7-4e54-8fff-5574e9e83c4f">
+<img width="327" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/3eca1f06-bbdc-452f-8cfb-beff8321add3">
 <img width="256" alt="image" src="https://github.com/willaguiar/DSW-collaborative-project/assets/70033934/167bfa6c-f73e-4000-a1ef-5e56f821822a">
 
--to do: reorganize the panels so they are symetric
+  - to do: Maintain only 5mtop and 1mtop experiments for OM2 and panan. Also add a second panel with mass transport across slope foe simulations
+
 
 
 
