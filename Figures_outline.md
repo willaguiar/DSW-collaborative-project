@@ -27,11 +27,12 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
   - to do: Maintain only 5mtop and 1mtop experiments for OM2 and panan. Also add a second panel with mass transport across slope foe simulations
 
 
-
+### Results Part 2 - DSW in OM2 and Panan
 
 ### Remaining decisions
   - Should we include the halfmtop experiment in the paper? that experiment was done only with ACCESS-OM2, but not Panan01. It might be necessary to run a halfmtop case with pana if we want to include it.
-
+  - Do we want to include the single column experiments?
+  - Do we want to include N.A. SWMT?
 
 ### Supplementary material images
 Contours of mass transport accross the 1km isobath. We should discuss if this is is better placed in the supmat or main ms in the next DSw meeting
