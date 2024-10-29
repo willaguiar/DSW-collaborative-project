@@ -4,6 +4,7 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
 
 
 **NOTE: Each figure should have its own notebook.**
+# Main Manuscrupt figures
 
 ## Figure 1 
 In this figure we aim to show:
@@ -48,14 +49,15 @@ Notice that this figure shows only the transport in the upper 5.1 m, but the shi
 
 
 
-
+# Supplementary material figures
 
 ## Figure S1
 
 
 ## Figure S2
+The figure below shows the vertically integrated transport going to layers deeper than 5m, into 30 m depth, which is an estimate of the Ekman Layer depth in the Southern Ocean. It shows that the westward shift of the transport is consistent between models and go deep into the the Ekman layer
 
-
+![V7_Figure_S2](https://github.com/user-attachments/assets/0bf1ccde-4692-4172-9b48-162b9131f40d)
 
 
 
