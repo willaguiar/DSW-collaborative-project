@@ -7,6 +7,8 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
 
 # Figure 1 
 ![V7_Figure_1](https://github.com/user-attachments/assets/a9525ec2-0186-43e7-9363-e9039e84bd8b)
+
+
 In this figure we aim to show:
 - The density layer that connects the shelf and the abyss (z>3500 m), which is chosen as the minimum density definition for our DSW [a,b]., i.e., $\sigma_0\ >\ 27.85\ kg \ m^{-3}$ for MOM5, and  $\sigma_2\ >\ 37.18\ kg \ m^{-3}$ for MOM6
 
