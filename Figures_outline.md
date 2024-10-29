@@ -36,7 +36,27 @@ In the previous figure we estabilished that differences in FWF do not explain th
 - Locally, the maginitude of the decrease in density (~0.08 kg/m3,e,f) is similar to the maginitude of the shift seen in the dense side of the SWMT curves of 5m and 1m (fig 2 a,b). Therefore this freshening likely makes the continental shelf resistant to DSW formation
 ![V4_Figure_Ekman1-10](https://github.com/user-attachments/assets/b4f5062b-ea4b-49b9-a539-3c0e9599b95d)
 
+## Figure 5
+
+In this figure we aim to show that:
+- Offshore waters have lower salinity than shelf waters [a,b,c,d] and hence changes in the cross-slope transport could cause the continental shelf to freshen
+- The 5m simulations have a southward shift in the direction of the Ekman transport, hence incerasing the cross-slope mass transport and possibly bringing more freshwater top the shelf
+![V7_1_Figure_3](https://github.com/user-attachments/assets/b975a5da-c95e-4347-a76f-2d2762f544ff)
+
   
+Notice that this figure shows only the transport in the upper 5.1 m, but the shift in integrated Ekman ransport goes until the end of the (possible ~20 m) Ekman layer depth. I will cite a Supplementary figure S2 here, that shows a similar plot but integrated up to 30 m depth
+
+
+
+
+
+## Figure S1
+
+
+## Figure S2
+
+
+
 
 
 
