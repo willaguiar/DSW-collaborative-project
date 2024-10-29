@@ -3,7 +3,7 @@
 Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://agupubs.onlinelibrary.wiley.com/journal/19422466/journal-metrics)
 
 
-**NOTE: Each figure should have its own notebook.**
+**NOTE: All figures should have a notebook**
 # Main Manuscrupt figures
 
 ## Figure 1 
