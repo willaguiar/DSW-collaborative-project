@@ -47,6 +47,9 @@ In this figure we aim to show that:
   
 Notice that this figure shows only the transport in the upper 5.1 m, but the shift in integrated Ekman ransport goes until the end of the (possible ~20 m) Ekman layer depth. I will cite a Supplementary figure S2 here, that shows a similar plot but integrated up to 30 m depth
 
+## Figure 6
+In the figure below I show that distributing the winds over the top 5m, even in 1m vertical resolution, yields a simuliar Ekman Transport, freshening of the shelf and DSW decrease.
+![V9_Figure_6_2](https://github.com/user-attachments/assets/f400ed51-f501-4d5a-b594-361104e983db)
 
 
 # Supplementary material figures
