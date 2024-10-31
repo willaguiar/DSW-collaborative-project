@@ -60,7 +60,8 @@ In the figure below I show that distributing the winds over the top 5m, even in 
 # Supplementary material figures
 
 ## Figure S1
-
+To show that salimity resoting conditions dont alter DSW formation
+![V7_Figure_S1](https://github.com/user-attachments/assets/76bed3c1-02b5-434a-9bfd-54464eb45b84)
 
 ## Figure S2
 The figure below shows the vertically integrated transport going to layers deeper than 5m, into 30 m depth, which is an estimate of the Ekman Layer depth in the Southern Ocean. It shows that the westward shift of the transport is consistent between models and go deep into the the Ekman layer
