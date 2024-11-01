@@ -32,14 +32,10 @@ For the figure below (red line on a,b), I did the SWMT calculation, using the su
 
 ## Figure 4
 In the previous figure we estabilished that differences in FWF do not explain the weakening of the DSW formation. In this one, we will analyze the surface salinities and densities to show that:
-- A fast freshening/density decrease happens within 30 days of each simulation (Jan, summer),hence before DSW formation starts [a,b]
-- This freshening/lightening happens mostly in the upper 20 m of the water collumn [c,d], therefore having a timescale and spatial scale often atributted to the wind-driven dynamics
-- Locally, the maginitude of the decrease in density (~0.08 kg/m3,e,f) is similar to the maginitude of the shift seen in the dense side of the SWMT curves of 5m and 1m (fig 2 a,b). Therefore this freshening likely makes the continental shelf resistant to DSW formation
+- A freshening/density decrease happens within the first few months of each simulation
+- Locally, the maginitude of the decrease in density (~0.08 kg/m3,e,f) is similar to the maginitude of the shift seen in the dense side of the SWMT curves of 5m and 1m (fig 2 a,b). Therefore this freshening likely makes the continental shelf too fresh for DSW formation
 
-V1:
-![V4_Figure_Ekman1-10](https://github.com/user-attachments/assets/b4f5062b-ea4b-49b9-a539-3c0e9599b95d)
 
-V2:
 ![V9_Figure_4_2](https://github.com/user-attachments/assets/cfa241be-3545-4317-9d4b-279368a31f9c)
 
 ## Figure 5
