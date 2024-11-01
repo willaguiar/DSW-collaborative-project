@@ -7,7 +7,7 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
 # Main Manuscrupt figures
 
 ## Figure 1 
-In this fegure we are meant to show our DSW definition. We used the mean density at Z> 3500m in the Southern ocean as the lighter constraint for our DSW. We can see in the figure below that:
+In this figure we are meant to show our DSW definition. We used the mean density at Z> 3500m in the Southern ocean as the lighter constraint for our DSW. We can see in the figure below that:
 - These densities connect the shelf and the abyss, as we can see in that slice of the Drygalski trough [a,b]
 
 - Hence the minimum density definition for our DSW is $\sigma_0\ >\ 27.85\ kg \ m^{-3}$ for MOM5, and  $\sigma_2\ >\ 37.18\ kg \ m^{-3}$ for MOM6. The cross-isobath flow on this density level is the one chosen to represent the DSW overflow.
