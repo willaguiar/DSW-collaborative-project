@@ -34,8 +34,8 @@ For the figure below (red line on a,b), I did the SWMT calculation, using the su
 
 ## Figure 4
 In the previous figure we estabilished that differences in FWF do not explain the weakening of the DSW formation. In this one, we will analyze the surface salinities and densities to show that:
-- A freshening/density decrease happens within the first few months of each simulation
-- Locally, the maginitude of the decrease in density (~0.08 kg/m3,e,f) is similar to the maginitude of the shift seen in the dense side of the SWMT curves of 5m and 1m (fig 2 a,b). Therefore this freshening likely makes the continental shelf too fresh for DSW formation
+- A freshening/density decrease happens within the first few months of each simulation [a,b]
+- Locally, the magnitude of this decrease in density (~0.08 kg/m3,e,f) is similar to the maginitude of the shift seen in the dense side of the SWMT curves of 5m and 1m (fig 2 a,b). Therefore this freshening likely makes the continental shelf too fresh for DSW formation
 
 
 ![V9_Figure_4_2](https://github.com/user-attachments/assets/cfa241be-3545-4317-9d4b-279368a31f9c)
@@ -44,21 +44,21 @@ In the previous figure we estabilished that differences in FWF do not explain th
 
 In this figure we aim to show that:
 - Offshore waters have lower salinity than shelf waters [a,b,c,d] and hence changes in the cross-slope transport could cause the continental shelf to freshen
-- The 5m simulations have a southward shift in the direction of the Ekman transport, hence incerasing the cross-slope mass transport and possibly bringing more freshwater top the shelf
+- The 5m simulations have a southward shift in the direction of the Ekman transport, hence increasing the cross-slope mass transport and possibly bringing more freshwater top the shelf
 ![V7_1_Figure_3](https://github.com/user-attachments/assets/b975a5da-c95e-4347-a76f-2d2762f544ff)
 
   
-Notice that this figure shows only the transport in the upper 5.1 m, but the shift in integrated Ekman ransport goes until the end of the (possible ~20 m) Ekman layer depth. I will cite a Supplementary figure S2 here, that shows a similar plot but integrated up to 30 m depth
+Notice that this figure shows only the transport in the upper 5.1 m, but the shift in integrated Ekman transport goes until the end of the (possible ~20 m) Ekman layer depth. I will cite a Supplementary figure S2 here, that shows a similar plot but integrated up to 30 m depth
 
 ## Figure 6
-In the figure below I show that distributing the winds over the top 5m, even in 1m vertical resolution, yields a simuliar Ekman Transport, freshening of the shelf and DSW decrease.
+In the figure below I show that applying the winds over the top 5m, even when using a 1m vertical resolution, yields a similiar soutthward shift in Ekman Transport [g], freshening of the shelf [e,f,h]and DSW decrease [a-d]. Hence, the shift in Ekman transport likely causes the freshening of the shelf.
 ![V9_Figure_6_2](https://github.com/user-attachments/assets/f400ed51-f501-4d5a-b594-361104e983db)
 
 
 # Supplementary material figures
 
 ## Figure S1
-To show that salimity resoting conditions dont alter DSW formation
+To show that salinity resoting conditions dont alter DSW formation
 ![V7_Figure_S1](https://github.com/user-attachments/assets/76bed3c1-02b5-434a-9bfd-54464eb45b84)
 
 ## Figure S2
