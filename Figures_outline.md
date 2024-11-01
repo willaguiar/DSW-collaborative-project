@@ -7,11 +7,13 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
 # Main Manuscrupt figures
 
 ## Figure 1 
-In this figure we aim to show:
-- The density layer that connects the shelf and the abyss (z>3500 m), which is chosen as the minimum density definition for our DSW [a,b]., i.e., $\sigma_0\ >\ 27.85\ kg \ m^{-3}$ for MOM5, and  $\sigma_2\ >\ 37.18\ kg \ m^{-3}$ for MOM6. The cross-siobath flow on this density level is the one chosen to represent the DSW overflow. These values were chosen as the average density in each model's control simulation at z = 3500 m
+In this fegure we are meant to show our DSW definition. We used the mean density at Z> 3500m in the Southern ocean as the lighter constraint for our DSW. We can see in the figure below that:
+- These densities connect the shelf and the abyss, as we can see in that slice of the Drygalski trough [a,b]
 
-- The density range in which we average the SWMT [dashed line on c,d], to obtain our DSW formation timeseries. i.e., $\sigma_0\ =\ [27.85,\ 27.86]$ for MOM5, and $\sigma_2\ =\ [37.18,\ 37.19]$ for MOM6.
-- That DSW sucessfully reaches the abyss [e,f]
+- Hence the minimum density definition for our DSW is $\sigma_0\ >\ 27.85\ kg \ m^{-3}$ for MOM5, and  $\sigma_2\ >\ 37.18\ kg \ m^{-3}$ for MOM6. The cross-isobath flow on this density level is the one chosen to represent the DSW overflow.
+- For the SWMT, we average between our lightest density definition + $0.1\  kg \ m^{-3}$ . That means we used
+$\sigma_0\ =\ [27.85,\ 27.95]$ for MOM5, and $\sigma_2\ =\ [37.18,\ 37.28]$ for MOM6.
+- That DSW  reaches the abyss [e,f]
 ![V7_Figure_1](https://github.com/user-attachments/assets/a9525ec2-0186-43e7-9363-e9039e84bd8b)
 
 
