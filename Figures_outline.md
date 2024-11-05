@@ -63,8 +63,7 @@ To show that salinity resoting conditions dont alter DSW formation
 
 ## Figure S2
 The figure below shows the vertically integrated transport going to layers deeper than 5m, into 30 m depth, which is an estimate of the Ekman Layer depth in the Southern Ocean. It shows that the westward shift of the transport is consistent between models and go deep into the the Ekman layer
-
-![V7_Figure_S2](https://github.com/user-attachments/assets/0bf1ccde-4692-4172-9b48-162b9131f40d)
+![V7_Figure_S2-2](https://github.com/user-attachments/assets/9d597a2c-d5b2-41e9-8432-aea3813507ee)
 
 
 
