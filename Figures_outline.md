@@ -4,7 +4,7 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
 
 
 **NOTE: All figures should have a notebook**
-# Main Manuscrupt figures
+# Main results figures
 
 ## Figure 1 
 In this figure we are meant to show our DSW definition. We used the mean density at Z> 3500m in the Southern ocean as the lighter constraint for our DSW. We can see in the figure below that:
@@ -53,10 +53,18 @@ Notice that this figure shows only the transport in the upper 5.1 m, but the shi
 ## Figure 6
 In the figure below I show that applying the winds over the top 5m, even when using a 1m vertical resolution, yields a similiar soutthward shift in Ekman Transport [g], freshening of the shelf [e,f,h]and DSW decrease [a-d]. Hence, the shift in Ekman transport likely causes the freshening of the shelf.
 ![V9_Figure_6_2](https://github.com/user-attachments/assets/f400ed51-f501-4d5a-b594-361104e983db)
+___
+# Additional exploration figures
+The figures below aim to explain that the salt concentration effect and MLD changes have no effect on DSW.
 
+## Figure 7
+Explanation: Models with coarse surface cell using KPP are known to overestiamte the ocean surface boundary layer depth. This overestiamtion could alter the vertical gradients of $\sigma$ an $S$ making the surface too fresh to form DSW. By comparying the MLD in MOM5 (KPP) in the locations where DSW forms. Also, the direction of the MLD change is opposite than expected by the KPP sensitivity (below). These results, together with the fact that MOM6 also has decreased DSW formation  in thick cell top simulations show that the Ocean Surface Boundary Layer parameterizaiton do not determine the ocean's ability to form DSW in simulations with thick top cells.
+![V9_Figure_7](https://github.com/user-attachments/assets/ca5e8fcd-552e-4094-83ac-bfa717c7a12e)
 
+## Figure 8
+____
 # Supplementary material figures
-
+The figures below are put into the supp material since they are mostly used to proof a simple fast point, and dont required thorough discussion
 ## Figure S1
 To show that salinity resoting conditions dont alter DSW formation
 ![V7_Figure_S1](https://github.com/user-attachments/assets/76bed3c1-02b5-434a-9bfd-54464eb45b84)
