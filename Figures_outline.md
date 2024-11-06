@@ -75,7 +75,8 @@ The figure below shows the vertically integrated transport going to layers deepe
 
 ## Figure S3
 This figure is meant to show the using an absolute wind field approach doe not correct the Ekman transport issue. This was moved to supplementary as it is not integral part of the results and is only rapdily cited in the discussion when we say the absolue winds dont correct the problem.
-![V4_ABSWINDS](https://github.com/user-attachments/assets/6fc00082-bf1d-4668-959a-271d62224d12)
+![V10_Figure_S3-2](https://github.com/user-attachments/assets/a2b5a594-879a-45ee-8822-7a847f40f8da)
+
 
 
 
