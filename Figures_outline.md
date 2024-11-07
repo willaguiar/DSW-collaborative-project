@@ -72,6 +72,9 @@ Explanation: Models with coarse surface cell using KPP are known to overestiamte
 ![V9_Figure_7](https://github.com/user-attachments/assets/ca5e8fcd-552e-4094-83ac-bfa717c7a12e)
 
 ## Figure 8
+This is to highlight that spreading the freshwater fluxes over 5 m deph do not cause DSW foramtion to decrease:
+![V7_Figure_8](https://github.com/user-attachments/assets/c0985ac3-75a0-4e8b-9d6a-d243f1fcde30)
+
 ____
 # Supplementary material figures
 The figures below are put into the supp material since they are mostly used to proof a simple fast point, and dont required thorough discussion
