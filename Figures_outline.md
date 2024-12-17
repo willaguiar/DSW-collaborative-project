@@ -2,11 +2,11 @@
 
 Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://agupubs.onlinelibrary.wiley.com/journal/19422466/journal-metrics)
 
-**Maximum publication units = 25 PUs**  ( can be surpassed by paying additional publication fee)
+**Maximum publication units without extra fee= 25 PUs**  ( can be surpassed by paying additional publication fee)
 
 1 PU= 500 words or 1 figure/table
 
-Currently: 11 PUs through figures, XX PUs through text
+Currently: 11 PUs through figures, 16 PUs through text
 
 
 **NOTE: All figures should have a notebook**
