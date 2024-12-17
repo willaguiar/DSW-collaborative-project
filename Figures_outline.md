@@ -68,9 +68,6 @@ Notice that this figure shows only the transport in the upper 5.1 m, but the shi
 ## Figure 7
 In the figure below I show that applying the winds over the top 5m, even when using a 1m vertical resolution, yields a similiar soutthward shift in Ekman Transport [g], freshening of the shelf [e,f,h]and DSW decrease [a-d]. Hence, the shift in Ekman transport likely causes the freshening of the shelf.
 ![V9_Figure_6_2](https://github.com/user-attachments/assets/f400ed51-f501-4d5a-b594-361104e983db)
-___
-# Additional exploration figures
-The figures below aim to explain that the salt concentration effect and MLD changes have no effect on DSW.
 
 ## Figure 8
 Explanation: Models with coarse surface cell using KPP are known to overestiamte the ocean surface boundary layer depth. This overestiamtion could alter the vertical gradients of $\sigma$ an $S$ making the surface too fresh to form DSW. By comparying the MLD in MOM5 (KPP) in the locations where DSW forms. Also, the direction of the MLD change is opposite than expected by the KPP sensitivity (below). These results, together with the fact that MOM6 also has decreased DSW formation  in thick cell top simulations show that the Ocean Surface Boundary Layer parameterizaiton do not determine the ocean's ability to form DSW in simulations with thick top cells. Mixed layer depth below defined by $\Delta \sigma\ =\ 0.03$
@@ -85,8 +82,10 @@ This is to highlight that spreading the freshwater fluxes over 5 m deph do not c
 # Figure 11
 Schematics show how changes in the surface cell thickness  alters the  DSW formation. The left schematic is for the 1.1 m top-cell experiments, while the right schematic is for the 5.1 m top-cell experiments. Blue arrows flowing down the slope represent the DSW overflow, while red shading on the ocean’s surface represents positive salinity anomalies. In simulations with a 5 m thick upper cell, the surface Ekman spiral is unresolved, hence the surface Ekman transport shifts southward. More southward transport increases the poleward transport of fresh, offshore surface waters, which lowers salinity over the continental shelf. The resulting freshening limits the formation and overflow of DSW.
 
+<img src="https://github.com/willaguiar/DSW-collaborative-project/blob/main/figs_main_paper/Fig_011a.png" width="480">
 
 ____
+
 # Supplementary material figures
 The figures below are put into the supp material since they are mostly used to proof a simple fast point, and dont required thorough discussion
 ## Figure S1
