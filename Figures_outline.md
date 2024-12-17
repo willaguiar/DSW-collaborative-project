@@ -91,8 +91,9 @@ To show that salinity resoting conditions dont alter DSW formation
 ![V7_Figure_S1](https://github.com/user-attachments/assets/76bed3c1-02b5-434a-9bfd-54464eb45b84)
 
 ## Figure S2
-The figure below shows the vertically integrated transport going to layers deeper than 5m, into 30 m depth, which is an estimate of the Ekman Layer depth in the Southern Ocean. It shows that the westward shift of the transport is consistent between models and go deep into the the Ekman layer
-![V7_Figure_S2-2](https://github.com/user-attachments/assets/9d597a2c-d5b2-41e9-8432-aea3813507ee)
+The figure below shows the vertically integrated transport going to layers deeper than 5m, into 30 m depth, which is an estimate of the Ekman Layer depth in the Southern Ocean. 
+![Fig_S02](https://github.com/user-attachments/assets/33e008c1-6e64-43af-bee8-5abacbee45ca)
+
 
 ## Figure S3
 This figure is meant to show the using an absolute wind field approach doe not correct the Ekman transport issue. This was moved to supplementary as it is not integral part of the results and is only rapdily cited in the discussion when we say the absolue winds dont correct the problem.
