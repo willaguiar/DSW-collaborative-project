@@ -66,16 +66,21 @@ In this figure we aim to show that:
 ## Figure 7
 In the figure below I show that applying the winds over the top 5m, even when using a 1m vertical resolution, yields a similiar soutthward shift in Ekman Transport [g], freshening of the shelf [e,f,h]and DSW decrease [a-d]. Hence, the shift in Ekman transport likely causes the freshening of the shelf.
 ![V9_Figure_6_2](https://github.com/user-attachments/assets/f400ed51-f501-4d5a-b594-361104e983db)
-
 ## Figure 8
-Explanation: Models with coarse surface cell using KPP are known to overestiamte the ocean surface boundary layer depth. This overestiamtion could alter the vertical gradients of $\sigma$ an $S$ making the surface too fresh to form DSW. By comparying the MLD in MOM5 (KPP) in the locations where DSW forms. Also, the direction of the MLD change is opposite than expected by the KPP sensitivity (below). These results, together with the fact that MOM6 also has decreased DSW formation  in thick cell top simulations show that the Ocean Surface Boundary Layer parameterizaiton do not determine the ocean's ability to form DSW in simulations with thick top cells. Mixed layer depth below defined by $\Delta \sigma\ =\ 0.03$
-![V9_Figure_7](https://github.com/user-attachments/assets/ca5e8fcd-552e-4094-83ac-bfa717c7a12e)
+In this figure we show, in an experiment with 5mtop grid, and weaker zonal winds, that the 4% increase in  total cross-slope transport does not affect the DSW formation
+![Fig_08](https://github.com/user-attachments/assets/a50e99c7-0252-40ab-aa57-c27c1b9cf224)
 
 ## Figure 9
-This is to highlight that spreading the freshwater fluxes over 5 m deph do not cause DSW foramtion to decrease:
-![V7_Figure_8](https://github.com/user-attachments/assets/c0985ac3-75a0-4e8b-9d6a-d243f1fcde30)
+Explanation: Models with coarse surface cell using KPP are known to overestiamte the ocean surface boundary layer depth. This overestiamtion could alter the vertical gradients of $\sigma$ an $S$ making the surface too fresh to form DSW. By comparying the MLD in MOM5 (KPP) in the locations where DSW forms. Also, the direction of the MLD change is opposite than expected by the KPP sensitivity (below). These results, together with the fact that MOM6 also has decreased DSW formation  in thick cell top simulations show that the Ocean Surface Boundary Layer parameterizaiton do not determine the ocean's ability to form DSW in simulations with thick top cells. Mixed layer depth below defined by $\Delta \sigma\ =\ 0.03$
+![Fig_09](https://github.com/user-attachments/assets/c1ecd750-735e-4da2-b440-c4c357e864f9)
+
 
 # Figure 10
+This is to highlight that spreading the freshwater fluxes over 5 m deph do not cause DSW formation to decrease:
+![Fig_10](https://github.com/user-attachments/assets/003239ea-ee3c-4c3a-9fcd-f96191ea76e2)
+
+
+
 
 # Figure 11
 Schematics show how changes in the surface cell thickness  alters the  DSW formation. The left schematic is for the 1.1 m top-cell experiments, while the right schematic is for the 5.1 m top-cell experiments. Blue arrows flowing down the slope represent the DSW overflow, while red shading on the ocean’s surface represents positive salinity anomalies. In simulations with a 5 m thick upper cell, the surface Ekman spiral is unresolved, hence the surface Ekman transport shifts southward. More southward transport increases the poleward transport of fresh, offshore surface waters, which lowers salinity over the continental shelf. The resulting freshening limits the formation and overflow of DSW.
@@ -88,7 +93,8 @@ ____
 The figures below are put into the supp material since they are mostly used to proof a simple fast point, and dont required thorough discussion
 ## Figure S1
 To show that salinity resoting conditions dont alter DSW formation
-![V7_Figure_S1](https://github.com/user-attachments/assets/76bed3c1-02b5-434a-9bfd-54464eb45b84)
+![Fig_S01](https://github.com/user-attachments/assets/0a06ce67-9c76-4b34-845d-3bff548ade1e)
+
 
 ## Figure S2
 The figure below shows the vertically integrated transport going to layers deeper than 5m, into 30 m depth, which is an estimate of the Ekman Layer depth in the Southern Ocean. 
