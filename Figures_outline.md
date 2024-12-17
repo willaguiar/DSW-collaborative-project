@@ -82,7 +82,7 @@ This is to highlight that spreading the freshwater fluxes over 5 m deph do not c
 # Figure 11
 Schematics show how changes in the surface cell thickness  alters the  DSW formation. The left schematic is for the 1.1 m top-cell experiments, while the right schematic is for the 5.1 m top-cell experiments. Blue arrows flowing down the slope represent the DSW overflow, while red shading on the ocean’s surface represents positive salinity anomalies. In simulations with a 5 m thick upper cell, the surface Ekman spiral is unresolved, hence the surface Ekman transport shifts southward. More southward transport increases the poleward transport of fresh, offshore surface waters, which lowers salinity over the continental shelf. The resulting freshening limits the formation and overflow of DSW.
 
-<img src="https://github.com/willaguiar/DSW-collaborative-project/blob/main/figs_main_paper/Fig_011a.png" width="480">
+<img src="https://github.com/willaguiar/DSW-collaborative-project/blob/main/figs_main_paper/Fig_011a.png" width="480"><img src="https://github.com/willaguiar/DSW-collaborative-project/blob/main/figs_main_paper/Fig_011b.png" width="480">
 
 ____
 
