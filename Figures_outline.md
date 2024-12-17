@@ -21,8 +21,7 @@ Vertical grid schematics (Self explanatory):
 
 ## Figure 2
 In this figure we are meant to show our DSW definition. We used the mean density at Z> 3500m in the Southern ocean as the lighter constraint for our DSW. We can see in the figure below that:
-- These densities connect the shelf and the abyss, as we can see in that slice of the Drygalski trough [a,b]
-
+- These densities connect the shelf and the abyss, as we can see in that slice of the Drygalski trough [c,d]
 - Hence the minimum density definition for our DSW is $\sigma_0\ >\ 27.85\ kg \ m^{-3}$ for MOM5, and  $\sigma_2\ >\ 37.18\ kg \ m^{-3}$ for MOM6. The cross-isobath flow on this density level is the one chosen to represent the DSW overflow.
 - For the SWMT, we average between our lightest density definition + $0.1\  kg \ m^{-3}$ . That means we used
 $\sigma_0\ =\ [27.85,\ 27.95]$ for MOM5, and $\sigma_2\ =\ [37.18,\ 37.28]$ for MOM6.
@@ -31,15 +30,16 @@ $\sigma_0\ =\ [27.85,\ 27.95]$ for MOM5, and $\sigma_2\ =\ [37.18,\ 37.28]$ for 
 ![Fig_2](https://github.com/user-attachments/assets/ec1075f0-0f73-4f9f-aa22-6dfd5d414a2a)
 
 
-## Figure 2
+## Figure 3
 In this figure, the intent is to show we have a consistent decrease in DSW formation and overflow, as we thicken the top cell. some additional points to make are:
 
 - SWMT shift towards progressively lighter values as we thicken the top cell
 - Possibly waters cease reching the 3500 m level in the 5m simulation in MOM5
-![V7_Figure_2](https://github.com/user-attachments/assets/1d359bfd-3fcf-41b8-8477-8ffb3fe5bf5d)
+![Fig_3](https://github.com/user-attachments/assets/ab830b85-d137-4787-817a-eca60b58d89b)
 
 
-## Figure 3
+
+## Figure 4
 Explanation: 5mtop simulations have lower freshwater fluxes from sea ice formation on the continental shelf than 1mtop simulations. The smaller freshwater fluxes could alter (decrease) DSW formation in 5mtop. The aim of the figure below is to show that the decrease in FWF in 5mtop simulation is not enough to explain the changes in SWMT.
 
 For the figure below (red line on a,b), I did the SWMT calculation, using the surface fluxes from 5mtop (reduced sea ice foramtion) and the surface densities from 1mtop for density binning. If the high-density regions experienced a significant reduction in surface fluxes, then we would expect that to show as a significant reduction in the SWMT curve in the DSW range (dashed on control). This does not occur, so we can conclude that the reduction in sea ice formation in 5mtop is not enough to explain the changes in DSW formation with resolution.
