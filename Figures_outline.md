@@ -47,7 +47,7 @@ For the figure below (red line on c,d), I did the SWMT calculation, using the su
 ![Fig_4](https://github.com/user-attachments/assets/0f2287e0-6716-4fac-a44f-8639a2ee8436)
 
 
-## Figure 4
+## Figure 5
 In the previous figure we estabilished that differences in FWF do not explain the weakening of the DSW formation. In this one, we will analyze the surface salinities and densities to show that:
 - A freshening/density decrease happens within the first few months of each simulation [a,b]
 - Locally, the magnitude of this decrease in density (~0.08 kg/m3,e,f) is similar to the maginitude of the shift seen in the dense side of the SWMT curves of 5m and 1m (fig 2 a,b). Therefore this freshening likely makes the continental shelf too fresh for DSW formation
@@ -55,7 +55,7 @@ In the previous figure we estabilished that differences in FWF do not explain th
 
 ![V9_Figure_4_2](https://github.com/user-attachments/assets/cfa241be-3545-4317-9d4b-279368a31f9c)
 
-## Figure 5
+## Figure 6
 
 In this figure we aim to show that:
 - Offshore waters have lower salinity than shelf waters [a,b,c,d] and hence changes in the cross-slope transport could cause the continental shelf to freshen
@@ -65,20 +65,26 @@ In this figure we aim to show that:
   
 Notice that this figure shows only the transport in the upper 5.1 m, but the shift in integrated Ekman transport goes until the end of the (possible ~20 m) Ekman layer depth. I will cite a Supplementary figure S2 here, that shows a similar plot but integrated up to 30 m depth
 
-## Figure 6
+## Figure 7
 In the figure below I show that applying the winds over the top 5m, even when using a 1m vertical resolution, yields a similiar soutthward shift in Ekman Transport [g], freshening of the shelf [e,f,h]and DSW decrease [a-d]. Hence, the shift in Ekman transport likely causes the freshening of the shelf.
 ![V9_Figure_6_2](https://github.com/user-attachments/assets/f400ed51-f501-4d5a-b594-361104e983db)
 ___
 # Additional exploration figures
 The figures below aim to explain that the salt concentration effect and MLD changes have no effect on DSW.
 
-## Figure 7
+## Figure 8
 Explanation: Models with coarse surface cell using KPP are known to overestiamte the ocean surface boundary layer depth. This overestiamtion could alter the vertical gradients of $\sigma$ an $S$ making the surface too fresh to form DSW. By comparying the MLD in MOM5 (KPP) in the locations where DSW forms. Also, the direction of the MLD change is opposite than expected by the KPP sensitivity (below). These results, together with the fact that MOM6 also has decreased DSW formation  in thick cell top simulations show that the Ocean Surface Boundary Layer parameterizaiton do not determine the ocean's ability to form DSW in simulations with thick top cells. Mixed layer depth below defined by $\Delta \sigma\ =\ 0.03$
 ![V9_Figure_7](https://github.com/user-attachments/assets/ca5e8fcd-552e-4094-83ac-bfa717c7a12e)
 
-## Figure 8
+## Figure 9
 This is to highlight that spreading the freshwater fluxes over 5 m deph do not cause DSW foramtion to decrease:
 ![V7_Figure_8](https://github.com/user-attachments/assets/c0985ac3-75a0-4e8b-9d6a-d243f1fcde30)
+
+# Figure 10
+
+# Figure 11
+Schematics show how changes in the surface cell thickness  alters the  DSW formation. The left schematic is for the 1.1 m top-cell experiments, while the right schematic is for the 5.1 m top-cell experiments. Blue arrows flowing down the slope represent the DSW overflow, while red shading on the ocean’s surface represents positive salinity anomalies. In simulations with a 5 m thick upper cell, the surface Ekman spiral is unresolved, hence the surface Ekman transport shifts southward. More southward transport increases the poleward transport of fresh, offshore surface waters, which lowers salinity over the continental shelf. The resulting freshening limits the formation and overflow of DSW.
+
 
 ____
 # Supplementary material figures
