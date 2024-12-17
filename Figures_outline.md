@@ -6,7 +6,7 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
 
 1 PU= 500 words or 1 figure/table
 
-Currently: 11 PUs through figures, 15 PUs through text
+Currently: 11 PUs through figures, XX PUs through text
 
 
 **NOTE: All figures should have a notebook**
