@@ -59,11 +59,9 @@ In the previous figure we estabilished that differences in FWF do not explain th
 
 In this figure we aim to show that:
 - Offshore waters have lower salinity than shelf waters [a,b,c,d] and hence changes in the cross-slope transport could cause the continental shelf to freshen
-- The 5m simulations have a southward shift in the direction of the Ekman transport, hence increasing the cross-slope mass transport and possibly bringing more freshwater top the shelf
-![V7_1_Figure_3](https://github.com/user-attachments/assets/b975a5da-c95e-4347-a76f-2d2762f544ff)
+- The 5m simulations does not simulate the northward transport of freshwaters, hence creating a freshening trend on the shelf
+![Fig_06](https://github.com/user-attachments/assets/4ba1178d-1d17-4b6a-a804-5007dc36f367)
 
-  
-Notice that this figure shows only the transport in the upper 5.1 m, but the shift in integrated Ekman transport goes until the end of the (possible ~20 m) Ekman layer depth. I will cite a Supplementary figure S2 here, that shows a similar plot but integrated up to 30 m depth
 
 ## Figure 7
 In the figure below I show that applying the winds over the top 5m, even when using a 1m vertical resolution, yields a similiar soutthward shift in Ekman Transport [g], freshening of the shelf [e,f,h]and DSW decrease [a-d]. Hence, the shift in Ekman transport likely causes the freshening of the shelf.
