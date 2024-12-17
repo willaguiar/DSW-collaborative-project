@@ -6,17 +6,20 @@ Aim Journal : [Journal of Advances in Modeling Earth Systems (JAMES)](https://ag
 
 1 PU= 500 words or 1 figure/table
 
-Currently: 8 PUs through figures, 15 PUs through text
-
-_2 PUs (1000 words) left for abstract, aknowledgements, open research statement and plain language summary (unwritten)_
-
-
+Currently: 11 PUs through figures, 15 PUs through text
 
 
 **NOTE: All figures should have a notebook**
 # Main results figures
 
 ## Figure 1 
+Vertical grid schematics (Self explanatory):
+![DSW_grid_scheme](https://github.com/user-attachments/assets/e4652657-c837-44bd-98a7-0d2ef431b71d)
+
+
+
+
+## Figure 2
 In this figure we are meant to show our DSW definition. We used the mean density at Z> 3500m in the Southern ocean as the lighter constraint for our DSW. We can see in the figure below that:
 - These densities connect the shelf and the abyss, as we can see in that slice of the Drygalski trough [a,b]
 
@@ -24,7 +27,8 @@ In this figure we are meant to show our DSW definition. We used the mean density
 - For the SWMT, we average between our lightest density definition + $0.1\  kg \ m^{-3}$ . That means we used
 $\sigma_0\ =\ [27.85,\ 27.95]$ for MOM5, and $\sigma_2\ =\ [37.18,\ 37.28]$ for MOM6.
 - That DSW  reaches the abyss [e,f]
-![V7_Figure_1](https://github.com/user-attachments/assets/a9525ec2-0186-43e7-9363-e9039e84bd8b)
+
+![Fig_2](https://github.com/user-attachments/assets/ec1075f0-0f73-4f9f-aa22-6dfd5d414a2a)
 
 
 ## Figure 2
