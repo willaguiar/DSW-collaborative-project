@@ -20,8 +20,10 @@ if __name__ == '__main__':
 
 	# Start a dask cluster with multiple cores
 	climtas.nci.GadiClient()
-	session = cc.database.create_session('/home/156/wf4500/databases/access/DSW.db')
-	expt = '01deg_jra55v13_ryf9091_21mbath'
+	#session = cc.database.create_session('/home/156/wf4500/databases/access/DSW.db')
+	session = cc.database.create_session('/home/156/wf4500/databases/access/temporary_DSW.db')
+	#session = cc.database.create_session()
+	expt = 'ryf_FWFdist'
 	############################### From Clare Yung, Eddited by Wilton Aguiar
 	#### get run count argument that was passed to python script ####
 	
@@ -55,7 +57,7 @@ if __name__ == '__main__':
 	# ### Open contour data
 
 	isobath_depth = 1000
-	outfile = '/g/data/v45/akm157/model_data/access-om2/Antarctic_slope_contour_'+str(isobath_depth)+'m.npz'
+	outfile = '/g/data/g40/akm157/model_data/access-om2/Antarctic_slope_contour_'+str(isobath_depth)+'m.npz'
 	data = np.load(outfile)
 	mask_y_transport = data['mask_y_transport']
 	mask_x_transport = data['mask_x_transport']
@@ -222,7 +224,8 @@ if __name__ == '__main__':
 	# ### Bin into density:
 	## define isopycnal bins   
 	#isopycnal_bins_sigma0 = np.append(np.append(np.append(1,np.arange(27,32,.1)),np.arange(32,32.8,.01)),40)
-	isopycnal_bins_sigma0 = np.append(np.append(np.append(1000,np.arange(1021,1027.2,.1)),np.arange(1027.2,1029,.01)),1040) - 1000
+	#isopycnal_bins_sigma0 = np.append(np.append(np.append(1000,np.arange(1021,1027.2,.1)),np.arange(1027.2,1029,.01)),1040) - 1000
+	isopycnal_bins_sigma0 = np.array(xr.open_dataset('/home/156/wf4500/v45_wf4500/DSW_collaborative/Daily_mass_transports/01deg_jra55v13_ryf9091_21mbath/Antarctic_cross_slope/vol_trans_across_contour_1902_12.nc').isopycnal_bins)
 
 	## intialise empty transport along contour in density bins array
 	vol_trans_across_contour_binned = xr.DataArray(np.zeros((len(isopycnal_bins_sigma0),len(contour_ordering))), 
