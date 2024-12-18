@@ -52,8 +52,9 @@ In the previous figure we estabilished that differences in FWF do not explain th
 - A freshening/density decrease happens within the first few months of each simulation [a,b]
 - Locally, the magnitude of this decrease in density (~0.08 kg/m3,e,f) is similar to the maginitude of the shift seen in the dense side of the SWMT curves of 5m and 1m (fig 2 a,b). Therefore this freshening likely makes the continental shelf too fresh for DSW formation
 
+![Fig_05](https://github.com/user-attachments/assets/00da09c6-bd5d-4d59-b371-1d9597525f0f)
 
-![V9_Figure_4_2](https://github.com/user-attachments/assets/cfa241be-3545-4317-9d4b-279368a31f9c)
+
 
 ## Figure 6
 
@@ -65,7 +66,8 @@ In this figure we aim to show that:
 
 ## Figure 7
 In the figure below I show that applying the winds over the top 5m, even when using a 1m vertical resolution, yields a similiar soutthward shift in Ekman Transport [g], freshening of the shelf [e,f,h]and DSW decrease [a-d]. Hence, the shift in Ekman transport likely causes the freshening of the shelf.
-![V9_Figure_6_2](https://github.com/user-attachments/assets/f400ed51-f501-4d5a-b594-361104e983db)
+![Fig_07](https://github.com/user-attachments/assets/8407bb22-ac7b-4fc7-8f5a-bc5e083f4985)
+
 ## Figure 8
 In this figure we show, in an experiment with 5mtop grid, and weaker zonal winds, that the 4% increase in  total cross-slope transport does not affect the DSW formation
 ![Fig_08](https://github.com/user-attachments/assets/a50e99c7-0252-40ab-aa57-c27c1b9cf224)
